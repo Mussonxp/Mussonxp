@@ -1,9 +1,9 @@
-### Hi there 👋, Hi there, I'm Vladislav
-#### Frontend Developer
-![Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h1 align="center">Hi there, I'm <a href="#" target="_blank">Vladislav</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Frontend Developer</h3>
 
 
-Skills:  REACT / JS / HTML / CSS
+<h4 align="center">Skills:  REACT / JS / HTML / CSS</h4>
 
 
 
