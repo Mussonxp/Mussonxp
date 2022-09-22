@@ -2,7 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend Developer</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?Mussonxp=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Mussonxp/Mussonxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
